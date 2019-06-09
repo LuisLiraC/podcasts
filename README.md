@@ -3,7 +3,7 @@
 App de Podcasts integrada con la API de AudioBoom para aprender con Next.js
 Se hizo el deploy con now. Pueden verlo en el siguiente link: https://podcast.luislirac.now.sh
 
-![Captura de la App](./.readme-static/Homess.PNG)
+![Captura de la App](./.readme-static/HomeSS.PNG)
 
 ## ¿Cómo funciona?
 
